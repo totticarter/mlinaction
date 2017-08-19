@@ -1,1 +1,3 @@
-# mlinaction
+# mlinaction 这本书的源码，其中有些自己修改的地方
+
+当前已经学习了协同过滤，kmeans，贝叶斯定理，逻辑回归
